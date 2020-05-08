@@ -23,9 +23,9 @@
   border-left: 2px solid rgba(253, 251, 251, 0.36);
   height: 15.7%;
   position: fixed;
-  margin-left: -3px;
-  left: 5.15%;
+  left: 4.95%;
   bottom: 0px;
+  padding: 10px;
 }
 a {
   color: rgba(253, 251, 251, 0.36);
@@ -34,10 +34,7 @@ a {
 i {
      font-size: 30px;
 }
-.me {
-  width: 300px;
-  margin: 90px auto;
-}
+
 .me p,
 .me h1 {
   text-transform: uppercase;
@@ -52,33 +49,19 @@ i {
 }
 .social {
   position: fixed;
-  left: 6.4%;
-  bottom: 10%;
+  left: 1%;
+  bottom: 9.5%;
   
 }
 .social ul {
   padding: 10px;
-  -webkit-transform: translate(-270px, 0);
-  -moz-transform: translate(-270px, 0);
-  -ms-transform: translate(-270px, 0);
-  -o-transform: translate(-270px, 0);
-  transform: translate(-270px, 0);
+  
 }
 .social ul li {
   display: block;
-  margin: -5px;
   background: rgba(0, 0, 0, 0);
-  width: 270px;
   text-align: right;
   padding: 10px;
-  -webkit-border-radius: 0 30px 30px 0;
-  -moz-border-radius: 0 30px 30px 0;
-  border-radius: 0 30px 30px 0;
-  -webkit-transition: all 1s;
-  -moz-transition: all 1s;
-  -ms-transition: all 1s;
-  -o-transition: all 1s;
-  transition: all 1s;
 }
 
 .social ul li:hover a {
