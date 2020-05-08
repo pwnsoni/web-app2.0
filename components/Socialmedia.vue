@@ -20,7 +20,7 @@
 
 <style type="text/css">
 .vl {
-  border-left: 2px solid rgba(253, 251, 251, 0.36);
+  border-left: solid rgba(253, 251, 251, 0.36);
   height: 15.7%;
   position: fixed;
   left: 4.95%;
@@ -58,9 +58,7 @@ i {
   
 }
 .social ul li {
-  display: block;
   background: rgba(0, 0, 0, 0);
-  text-align: right;
   padding: 10px;
 }
 
@@ -70,7 +68,7 @@ i {
 
 body {
   background: rgb(16, 2, 32);
-  color: #00f;
+  color: rgb(16, 2, 32);
   font-family: 'Raleway', sans-serif;
 }
 
