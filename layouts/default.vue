@@ -5,6 +5,7 @@
     <Socialmedia />
     </div>
     <nuxt />
+    <Footer />
   </div>
 </template>
 
@@ -13,8 +14,10 @@
 
 import Navbar from "~/components/Navbar.vue";
 import Socialmedia from "~/components/Socialmedia.vue";
+
+import Footer from '~/components/Footer.vue';
 export default {
-  components: { Navbar, Socialmedia }
+  components: { Navbar, Socialmedia, Footer }
 }
 </script>
 

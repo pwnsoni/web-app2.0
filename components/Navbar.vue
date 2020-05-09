@@ -14,8 +14,9 @@
         <b-navbar-nav class="ml-auto">
             <b-navbar-nav class="rt">
                 <b-nav-item href="#projects">Projects</b-nav-item>
+                <b-nav-item href="#internExperience">Internships</b-nav-item>
                 <b-nav-item href="#ping" >Ping</b-nav-item>
-                <b-nav-item href="https://github.com/pwnsoni" target="_blank">Github</b-nav-item>
+                <b-nav-item href="https://github.com/pwnsoni" target="_blank" >Github</b-nav-item>
                 
             </b-navbar-nav>
         </b-navbar-nav>
@@ -33,7 +34,6 @@
         font-size: 20px;
     }
     .nb {
-        background: rgb(16, 2, 32);
         position: fixed;
         width: 100%;
         top: 0px;

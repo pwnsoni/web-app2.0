@@ -77,6 +77,50 @@
       </div>
       <br/><br/><br/><br/><br/>
       </div>
+    <div id="internExperience" >
+
+      <h1 class="heads" > Internship Experiences </h1>
+      <br/>
+      <h2 class="subHeads"> Lesspod (Serverless Internet) </h2>
+      <br/>
+      <p>
+      This was my first internship experience remotely, I have a learnt alot in that period. I contributed to a blogging
+      web-app in both sides, i.e., client side and server side. It was based on stack MEVN.
+      <br/>
+      <strong> I also deloyed this project to AWS lambda using serverless framework.</strong><br/>
+      <strong> Duration : Apr 2019 to Jun 2019</strong>
+      <br/>
+      <br/>
+      Tehcnology Used : Nuxt, Nodejs, Mongodb, JavaScript, git and github
+      </p>
+      <div class="links">
+        <a
+          href="https://github.com/lesspod/lesspod-2.0"
+          target="_blank"
+          class="button--green"
+        >
+          Github Repo Link
+        </a>
+      </div>
+
+<br/> <br/>
+      <h2 class="subHeads"> CSDC India </h2>
+      <br/>
+      <p>
+      This was my first in office internship experience , In this learning period, I contributed to a building 
+      registration app for Dehradun government, I made my contributions in front end. Then I learnt some things about
+      SQL, I was given a big database to play with, I also learnt about Java in this learning period.
+      <br/>
+      <strong> Duration : Aug 2019 to Sep 2019</strong>
+      <br/>
+      <br/>
+      Tehcnology Used : Nuxt, Nodejs, Mongodb, JavaScript, svn
+      </p>
+
+      <br/> <br/><br/> <br/>
+      </div>
+
+
       <div>
         <h1 class="heads" id="ping"> Get In Touch </h1>
         <br/>
@@ -141,7 +185,7 @@ export default {
   font-size: 70px;
   color: rgb(233, 201, 229);
   letter-spacing: 1px;
-  animation: 2s appear;
+  animation: 1s appear;
 }
 
 .heads {
