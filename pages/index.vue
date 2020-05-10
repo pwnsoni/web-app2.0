@@ -60,7 +60,7 @@
       <strong> This project only contains the chain code for all the transactions required.</strong>
       <br/>
       <br/>
-      Tehcnology Used : Hyperledger Fabric, JavaScript, IBM Blockchain Platform Extension 
+      Technology Used : Hyperledger Fabric, JavaScript, IBM Blockchain Platform Extension 
       </p>
    
       
@@ -91,7 +91,7 @@
       <strong> Duration : Apr 2019 to Jun 2019</strong>
       <br/>
       <br/>
-      Tehcnology Used : Nuxt, Nodejs, Mongodb, JavaScript, git and github
+      Technology Used : Nuxt, Nodejs, Mongodb, JavaScript, git and github
       </p>
       <div class="links">
         <a
