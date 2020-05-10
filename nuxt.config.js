@@ -12,7 +12,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'A portfolio website for Pawan Soni, Student of JSS, Github pwnsoni' || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/p7.ico' }
     ]
   },
   /*
