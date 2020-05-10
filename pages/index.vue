@@ -36,7 +36,7 @@
       <strong> This project got selected for prototype funding as well by CST, UP. (2019-20)</strong>
       <br/>
       <br/>
-      Tehcnology Used : Hyperledger Fabric, JavaScript, Nodejs, Nuxt, IBM Blockchain Platform Extension 
+      Technology Used : Hyperledger Fabric, JavaScript, Nodejs, Nuxt, IBM Blockchain Platform Extension 
       </p>
 
       <div class="links">
