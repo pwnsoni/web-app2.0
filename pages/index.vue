@@ -114,7 +114,7 @@
       <strong> Duration : Aug 2019 to Sep 2019</strong>
       <br/>
       <br/>
-      Technology Used : Nuxt, Nodejs, Mongodb, JavaScript, svn
+      Technology Used : Angular, SQL JavaScript, svn
       </p>
 
       <br/> <br/><br/> <br/>
