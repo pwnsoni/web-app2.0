@@ -16,7 +16,7 @@
                 <b-nav-item href="#projects">Projects</b-nav-item>
                 <b-nav-item href="#internExperience">Internships</b-nav-item>
                 <b-nav-item href="#ping" >Ping</b-nav-item>
-                <b-nav-item href="https://github.com/pwnsoni" target="_blank" >Github</b-nav-item>
+                <b-nav-item href="https://github.com/pwnsoni" target="_blank" class="l">Github</b-nav-item>
                 
             </b-navbar-nav>
         </b-navbar-nav>
@@ -43,5 +43,9 @@
         width: px;
         margin: 00% 0% 0% 80%;
         
+    }
+    .l{
+        border: 0.1px solid #3b8070;
+        padding: 0px;
     }
 </style>
