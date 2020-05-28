@@ -182,7 +182,8 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 70px;
+  /* font-size: 70px; */
+  font-size: calc(30px + (70 - 30) * ((100vw - 300px) / (1600 - 300)));
   color: rgb(233, 201, 229);
   letter-spacing: 1px;
 }
@@ -192,7 +193,8 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 50px;
+  /* font-size: 50px; */
+  font-size: calc(21px + (50 - 21) * ((100vw - 300px) / (1600 - 300)));
   text-align: center;
   color: rgb(233, 201, 229);
   letter-spacing: 1px;
@@ -204,7 +206,8 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 35px;
+  /* font-size: 35px; */
+  font-size: calc(15px + (35 - 15) * ((100vw - 300px) / (1600 - 300)));
   color: rgb(233, 201, 229);
   letter-spacing: 1px;
 }
@@ -214,14 +217,16 @@ p {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 18px;
+  /* font-size: 18px; */
+  font-size: calc(7.7px + (18 - 7.7) * ((100vw - 300px) / (1600 - 300)));
   color: #526488;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 35px;
+  /* font-size: 35px; */
+  font-size: calc(15px + (35 - 15) * ((100vw - 300px) / (1600 - 300)));
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 1px;
@@ -229,7 +234,8 @@ p {
 
 .subtitle2 {
   font-weight: 300;
-  font-size: 27px;
+  /* font-size: 27px; */
+  font-size: calc(11.5px + (27 - 11.5) * ((100vw - 300px) / (1600 - 300)));
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 1px;
@@ -238,5 +244,7 @@ p {
 .links {
   padding-top: 15px;
   text-align: center;
+  font-size: calc(7.7px + (18 - 7.7) * ((100vw - 300px) / (1600 - 300)));
+  
 }
 </style>
