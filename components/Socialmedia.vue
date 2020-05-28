@@ -21,9 +21,10 @@
 <style type="text/css">
 .vl {
   border-left: solid rgba(253, 251, 251, 0.36);
-  height: 15.7%;
+  height: 97px;
   position: fixed;
-  left: 4.95%;
+  left: 59.0px;
+  /* left: calc(29.35px + (68.49 - 29.35) * ((100vw - 300px) / (1600 - 300))); */
   bottom: 0px;
   padding: 10px;
 }
@@ -32,7 +33,8 @@ a {
   text-decoration: none;
 }
 i {
-     font-size: 30px;
+     /* font-size: 30px; */
+     font-size: 23px;
 }
 
 .me p,
@@ -49,8 +51,8 @@ i {
 }
 .social {
   position: fixed;
-  left: 1%;
-  bottom: 9.5%;
+  left: 11px;
+  bottom: 55px;
   
 }
 .social ul {

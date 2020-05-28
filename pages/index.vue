@@ -167,7 +167,7 @@ export default {
 }
 
 .container {
-  margin: 20% 20% 22% 22%;
+  margin: 20% auto;
   min-height: 100vh;
   display: flex;
   justify-content: center;

@@ -31,7 +31,7 @@
         font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
         text-align: right;
-        font-size: 20px;
+        font-size: calc(8.57px + (20 - 8.57) * ((100vw - 300px) / (1600 - 300)));
     }
     .nb {
         position: fixed;

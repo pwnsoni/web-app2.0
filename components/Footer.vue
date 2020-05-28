@@ -10,6 +10,6 @@
 .footer{
     color: #3b8070;
     text-align: center;
-    font-size: 16px;
+    font-size: calc(7.7px + (18 - 7.7) * ((100vw - 300px) / (1600 - 300)));
 }
 </style>
