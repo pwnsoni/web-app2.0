@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div  data-aos="fadeInUp">
     <div>
     <Navbar />
     <Socialmedia />

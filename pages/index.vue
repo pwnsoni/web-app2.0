@@ -185,7 +185,6 @@ export default {
   font-size: 70px;
   color: rgb(233, 201, 229);
   letter-spacing: 1px;
-  animation: 1s appear;
 }
 
 .heads {
@@ -197,7 +196,6 @@ export default {
   text-align: center;
   color: rgb(233, 201, 229);
   letter-spacing: 1px;
-  animation: 2s appear;
   
 }
 
