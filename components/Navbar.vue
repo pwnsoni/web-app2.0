@@ -48,4 +48,11 @@
         border: 0.1px solid #3b8070;
         padding: 0px;
     }
+
+    @media only screen and (max-width: 600px) {
+  .l{
+        border: 0.1px solid #3b0070;
+        padding: 0px;
+    }
+}
 </style>

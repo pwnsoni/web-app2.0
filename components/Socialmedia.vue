@@ -21,7 +21,7 @@
 <style type="text/css">
 .vl {
   border-left: solid rgba(253, 251, 251, 0.36);
-  height: 97px;
+  height: 80px;
   position: fixed;
   left: 59.0px;
   /* left: calc(29.35px + (68.49 - 29.35) * ((100vw - 300px) / (1600 - 300))); */

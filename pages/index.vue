@@ -12,10 +12,10 @@
       <br/>
       <h3 class="subtitle2" id="projects">
         <!-- A swift-learner, web developer -->
-        A swift-learner, developer, coder, Final year undergraduate 
-        <br/>
-        Open to Full time job opportunities or Freelance projects. <br/><br/>
-        Proficient in JavaScript and Java.
+        A passionate developer, blockchain and cloud enthusiast, swift-learner, who loves to write code.
+        <br/><br/>
+        <!-- Open to Full time job opportunities or Freelance projects. <br/><br/> -->
+        Proficient in NodeJs, JavaScript, Java, AWS (Lambda, EC2, S3, Cloudwatch), Hyperledger Fabric, Python (basic).
       </h3>
 
       <br/><br/><br/><br/><br/>
@@ -39,6 +39,7 @@
       Technology Used : Hyperledger Fabric, JavaScript, Nodejs, Nuxt, IBM Blockchain Platform Extension 
       </p>
 
+      
       <div class="links">
         <a
           href="https://github.com/pwnsoni/pharmaceutical-supply-chain"
@@ -48,6 +49,7 @@
           Github Repo Link
         </a>
       </div>
+      
 
       <br/> <br/>
    
