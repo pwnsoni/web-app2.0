@@ -12,7 +12,7 @@
       <br/>
       <h3 class="subtitle2" id="projects">
         <!-- A swift-learner, web developer -->
-        A passionate developer, blockchain and cloud enthusiast, swift-learner, who loves to write code.
+        A passionate developer, blockchain and cloud enthusiast, swift-learner, who loves to code.
         <br/><br/>
         <!-- Open to Full time job opportunities or Freelance projects. <br/><br/> -->
         Proficient in NodeJs, JavaScript, Java, AWS (Lambda, EC2, S3, Cloudwatch), Hyperledger Fabric, Python (basic).
